@@ -1,0 +1,14 @@
+{
+  "name": "country-code",
+  "repo": "yx2zhang-component/country-code",
+  "description": "country code with country name",
+  "version": "0.0.1",
+  "keywords": ["country code", "iso 3166"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
